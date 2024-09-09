@@ -53,7 +53,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
-  [![Codewars](https://github.r2v.ch/codewars?user=USERNAME&theme=gradient)](https://www.codewars.com/users/joker325713/badges/large)
 
   
 </div>
